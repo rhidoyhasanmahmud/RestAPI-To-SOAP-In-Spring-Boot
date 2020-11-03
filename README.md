@@ -13,7 +13,7 @@ Thanks to Felipe. Credit goes to Felipe.
 
 > SOAP XML Communication Flow 
 
-![SOAP Flow](https://github.com/CodeMechanix/RestAPI-To-SOAP-In-Spring-Boot/blob/main/images/SOAP1.PNG)
+![SOAP Flow](https://github.com/CodeMechanix/RestAPI-To-SOAP-In-Spring-Boot/blob/main/images/SOAP1.png)
 
 > Webservices :
 
@@ -35,9 +35,9 @@ The webservices are created to exchange the data between the two different syste
 1. Webservice Definition language. All the information about the SOAP service can be found in the WSDL file.
 2. This WSDL file has the below structure and to understand the Service contract information ,you should have clear idea about the WSDL structure.
 
-![WSDL File](https://github.com/CodeMechanix/RestAPI-To-SOAP-In-Spring-Boot/blob/main/images/SOAP2.PNG)
+![WSDL File](https://github.com/CodeMechanix/RestAPI-To-SOAP-In-Spring-Boot/blob/main/images/SOAP2.png)
 
-![WSDL Tags](https://github.com/CodeMechanix/RestAPI-To-SOAP-In-Spring-Boot/blob/main/images/SOAP3.PNG)
+![WSDL Tags](https://github.com/CodeMechanix/RestAPI-To-SOAP-In-Spring-Boot/blob/main/images/SOAP3.png)
 
 1. Types - Data type definition
 2. Message - Data communication between the client and provider defined here.
