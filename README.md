@@ -7,7 +7,7 @@ Image:
 
 WSDL XML File: https://www.dataaccess.com/webservicesserver/NumberConversion.wso?wsdl
 
-Thanks to Felipe. Credit goes to Felipe. 
+Thanks to Felipe. 
 
 ## What I Learn:
 
